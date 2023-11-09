@@ -1,4 +1,3 @@
--- Active: 1698976904918@@127.0.0.1@3306@db_online_store
 UPDATE Customers
 SET customer_address = 'Jl. Danau Towuti No.53A, Bandar Lampung, Lampung'
 WHERE customer_id = 8;
